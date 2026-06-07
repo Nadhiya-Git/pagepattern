@@ -29,7 +29,7 @@ const workingPayload = {
   }
 };
 
-test.only("UI Interception - Fetch and Fulfill Response Data", async ({ page }) => {
+test("UI Interception - Fetch and Fulfill Response Data", async ({ page }) => {
 
   // 1. Intercept the network call BEFORE making any UI moves
   await page.route("https://dev-demo-g7-product.excelacom.in/centuryServiceAPI/v1/getEntityDetails", async (route) => {
@@ -48,7 +48,7 @@ test.only("UI Interception - Fetch and Fulfill Response Data", async ({ page }) 
 
   // 2. Navigate to your frontend login screen
   await page.goto("https://dev-demo-g7-product.excelacom.in/Businessapp");
-
+console.log("Application navgated sucessfully");
   // 3. Fill in credentials and click submit
   await page.locator("#username").fill("lakshmipriya");
   await page.locator("#password").fill("welcome123");
