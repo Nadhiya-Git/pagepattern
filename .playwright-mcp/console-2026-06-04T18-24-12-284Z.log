@@ -1,0 +1,44 @@
+[    1373ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://dev-demo-g7-product.excelacom.in/assets/favicon.ico:0
+[    1992ms] [WARNING] jQuery.Deferred exception: ev is not defined ReferenceError: ev is not defined
+    at HTMLDocument.<anonymous> (https://dev-demo-g7-product.excelacom.in/cas/js/cas.js:306:9)
+    at e (https://dev-demo-g7-product.excelacom.in/cas/webjars/jquery/3.7.1/jquery.min.js:2:27028)
+    at t (https://dev-demo-g7-product.excelacom.in/cas/webjars/jquery/3.7.1/jquery.min.js:2:27330) undefined @ https://dev-demo-g7-product.excelacom.in/cas/webjars/jquery/3.7.1/jquery.min.js:1
+[    2004ms] ReferenceError: ev is not defined
+    at HTMLDocument.<anonymous> (https://dev-demo-g7-product.excelacom.in/cas/js/cas.js:306:9)
+    at e (https://dev-demo-g7-product.excelacom.in/cas/webjars/jquery/3.7.1/jquery.min.js:2:27028)
+    at t (https://dev-demo-g7-product.excelacom.in/cas/webjars/jquery/3.7.1/jquery.min.js:2:27330)
+[   67184ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67184ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67184ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67185ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67185ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67185ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67185ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67185ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67185ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67185ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67185ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67186ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67186ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67186ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67186ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67186ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67186ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67187ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67213ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67213ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67293ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67293ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67314ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67315ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67322ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67322ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67337ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67338ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67457ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67457ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67615ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67615ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/Businessapp:0
+[   67691ms] [WARNING] Highcharts warning: Consider including the "accessibility.js" module to make your chart more usable for people with disabilities. Set the "accessibility.enabled" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module. @ https://dev-demo-g7-product.excelacom.in/static/highcharts-C4JJTXbI.js:1
+[   67962ms] [WARNING] Failed to decode downloaded font: https://dev-demo-g7-product.excelacom.in/static/century-icons.woff2?t=1780467836459 @ https://dev-demo-g7-product.excelacom.in/static/highcharts-C4JJTXbI.js:1
+[   67962ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://dev-demo-g7-product.excelacom.in/static/highcharts-C4JJTXbI.js:1

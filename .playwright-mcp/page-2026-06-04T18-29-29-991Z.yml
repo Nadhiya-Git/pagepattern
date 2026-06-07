@@ -1,0 +1,59 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - img "Logo" [ref=e6]
+      - button "menu" [ref=e8] [cursor=pointer]
+  - generic [ref=e13]:
+    - button "Marketing" [ref=e14] [cursor=pointer]:
+      - generic [ref=e15]:
+        - img "Marketing" [ref=e16]
+        - heading "Marketing" [level=5] [ref=e17]
+    - button "Sales" [ref=e18] [cursor=pointer]:
+      - generic [ref=e19]:
+        - img "Sales" [ref=e20]
+        - heading "Sales" [level=5] [ref=e21]
+    - button "CPQ" [ref=e22] [cursor=pointer]:
+      - generic [ref=e23]:
+        - img "CPQ" [ref=e24]
+        - heading "CPQ" [level=5] [ref=e25]
+    - button "Customer 360" [ref=e26] [cursor=pointer]:
+      - generic [ref=e27]:
+        - img "Customer 360" [ref=e28]
+        - heading "Customer 360" [level=5] [ref=e29]
+    - button "Orchestrator" [ref=e30] [cursor=pointer]:
+      - generic [ref=e31]:
+        - img "Orchestrator" [ref=e32]
+        - heading "Orchestrator" [level=5] [ref=e33]
+    - button "360 Care" [ref=e34] [cursor=pointer]:
+      - generic [ref=e35]:
+        - img "360 Care" [ref=e36]
+        - heading "360 Care" [level=5] [ref=e37]
+    - button "Site Management" [ref=e38] [cursor=pointer]:
+      - generic [ref=e39]:
+        - img "Site Management" [ref=e40]
+        - heading "Site Management" [level=5] [ref=e41]
+    - button "Project Management" [ref=e42] [cursor=pointer]:
+      - generic [ref=e43]:
+        - img "Project Management" [ref=e44]
+        - heading "Project Management" [level=5] [ref=e45]
+    - button "Billing" [ref=e46] [cursor=pointer]:
+      - generic [ref=e47]:
+        - img "Billing" [ref=e48]
+        - heading "Billing" [level=5] [ref=e49]
+    - button "Field Service" [ref=e50] [cursor=pointer]:
+      - generic [ref=e51]:
+        - img "Field Service" [ref=e52]
+        - heading "Field Service" [level=5] [ref=e53]
+    - button "Survey" [ref=e54] [cursor=pointer]:
+      - generic [ref=e55]:
+        - img "Survey" [ref=e56]
+        - heading "Survey" [level=5] [ref=e57]
+    - button "Trouble Ticket" [ref=e58] [cursor=pointer]:
+      - generic [ref=e59]:
+        - img "Trouble Ticket" [ref=e60]
+        - heading "Trouble Ticket" [level=5] [ref=e61]
+    - button "Inventory" [ref=e62] [cursor=pointer]:
+      - generic [ref=e63]:
+        - img "Inventory" [ref=e64]
+        - heading "Inventory" [level=5] [ref=e65]
+    - paragraph [ref=e66]: © 2026 All Rights Reserved. Galaxy is a registered trademark of the Excelacom Inc.

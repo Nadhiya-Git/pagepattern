@@ -1,0 +1,296 @@
+- tabpanel "marketing Marketing" [ref=e70]:
+  - generic [ref=e74]:
+    - generic [ref=e76]:
+      - generic [ref=e78]:
+        - img [ref=e79]
+        - generic [ref=e80]: Customer 360
+      - tablist [ref=e85]:
+        - tab " Dashboard" [ref=e86] [cursor=pointer]:
+          - generic [ref=e87]:
+            - generic [ref=e88]: 
+            - text: Dashboard
+        - tab " Customer" [ref=e89] [cursor=pointer]:
+          - generic [ref=e90]:
+            - generic [ref=e91]: 
+            - text: Customer
+        - tab " Account" [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]:
+            - generic [ref=e94]: 
+            - text: Account
+        - tab " Sales Order" [ref=e95] [cursor=pointer]:
+          - generic [ref=e96]:
+            - generic [ref=e97]: 
+            - text: Sales Order
+        - tab " Billing" [ref=e98] [cursor=pointer]:
+          - generic [ref=e99]:
+            - generic [ref=e100]: 
+            - text: Billing
+        - tab " Orders" [ref=e101] [cursor=pointer]:
+          - generic [ref=e102]:
+            - generic [ref=e103]: 
+            - text: Orders
+        - tab " 360 Care" [ref=e104] [cursor=pointer]:
+          - generic [ref=e105]:
+            - generic [ref=e106]: 
+            - text: 360 Care
+        - tab " Home" [ref=e107] [cursor=pointer]:
+          - generic [ref=e108]:
+            - generic [ref=e109]: 
+            - text: Home
+      - generic [ref=e110]:
+        - button "Ask Roshon Ask Roshon" [ref=e112] [cursor=pointer]:
+          - img "Ask Roshon" [ref=e113]
+          - generic [ref=e114]: Ask Roshon
+        - button "" [ref=e116] [cursor=pointer]:
+          - generic [ref=e117]: 
+    - generic [ref=e119]:
+      - generic [ref=e126] [cursor=pointer]:
+        - heading "1701" [level=1] [ref=e127]
+        - heading "TOTAL CUSTOMERS" [level=6] [ref=e128]
+      - generic [ref=e135] [cursor=pointer]:
+        - heading "38" [level=1] [ref=e136]
+        - heading "TOTAL ACTIVE CUSTOMERS" [level=6] [ref=e137]
+      - generic [ref=e144] [cursor=pointer]:
+        - heading "530" [level=1] [ref=e145]
+        - heading "TOTAL MSA CONTRACTS" [level=6] [ref=e146]
+      - generic [ref=e153] [cursor=pointer]:
+        - heading "1714" [level=1] [ref=e154]
+        - heading "TOTAL SOW CONTRACTS" [level=6] [ref=e155]
+    - generic [ref=e157]:
+      - generic [ref=e161]:
+        - generic [ref=e162]: Contracts By Month
+        - img [ref=e165]:
+          - generic [ref=e184]:
+            - generic "JAN-2026" [ref=e185]: JAN-20…
+            - generic "FEB-2026" [ref=e186]: FEB-20…
+            - generic "MAR-2026" [ref=e187]: MAR-2…
+            - generic "APR-2026" [ref=e188]: APR-2…
+            - generic "MAY-2026" [ref=e189]: MAY-2…
+            - generic "JUN-2026" [ref=e190]: JUN-20…
+          - generic [ref=e191]:
+            - generic [ref=e192]: "0"
+            - generic [ref=e193]: "250"
+            - generic [ref=e194]: "500"
+            - generic [ref=e195]: "750"
+      - generic [ref=e199]:
+        - generic [ref=e200]: SOW Trajectory
+        - img [ref=e203]:
+          - generic [ref=e215]:
+            - generic [ref=e217] [cursor=pointer]: In Progress
+            - generic [ref=e220] [cursor=pointer]: Active
+            - generic [ref=e223] [cursor=pointer]: Pending for Approval
+      - generic [ref=e228]:
+        - generic [ref=e229]: Sales Order Lifecycle
+        - generic [ref=e230]:
+          - img [ref=e233]:
+            - generic [ref=e247]:
+              - generic [ref=e249]:
+                - generic [ref=e250]: "439"
+                - text: "439"
+              - generic [ref=e252]:
+                - generic [ref=e253]: "89"
+                - text: "89"
+              - generic [ref=e255]:
+                - generic [ref=e256]: "111"
+                - text: "111"
+            - generic [ref=e257]:
+              - generic "Acknowledged" [ref=e258]: Acknowledg…
+              - generic [ref=e259]: In Progress
+              - generic [ref=e260]: Completed
+          - generic [ref=e261]:
+            - generic [ref=e262]: Completion Rate
+            - generic [ref=e263]:
+              - text: 17.4%
+              - subscript [ref=e264]: (639 Overall Sales Order)
+    - generic [ref=e266]:
+      - generic [ref=e270]:
+        - generic [ref=e271]: Serviceablity
+        - img [ref=e274]:
+          - generic [ref=e285]:
+            - generic [ref=e287] [cursor=pointer]: Not in Comcast Territory
+            - generic "Construction Not Required" [ref=e290] [cursor=pointer]: Construction Not Requir…
+      - generic [ref=e295]:
+        - generic [ref=e296]: Customer Segmentation
+        - img [ref=e299]:
+          - generic [ref=e320]:
+            - generic "Enterprise" [ref=e321]: Ente…
+            - generic "Small and Medium Size Business" [ref=e322]: Smal…
+            - generic "Government Agencies" [ref=e323]: Gove…
+            - generic "Wholesale" [ref=e324]: Whol…
+            - generic "Business" [ref=e325]: Busi…
+            - generic [ref=e326]: Retail
+            - generic "Small Medium" [ref=e327]: Smal…
+            - generic "Residential" [ref=e328]: Resi…
+          - generic [ref=e329]:
+            - generic [ref=e330]: "0"
+            - generic [ref=e331]: 2.5k
+            - generic [ref=e332]: 5k
+      - generic [ref=e336]:
+        - generic [ref=e337]: Customer Segment Wise Status
+        - generic [ref=e338]:
+          - generic [ref=e339]:
+            - generic [ref=e340]: Enterprise
+            - generic [ref=e341]: Government Agencies
+            - generic [ref=e342]: Retail
+            - generic [ref=e343]: Wholesale
+          - generic [ref=e344]:
+            - generic [ref=e345]:
+              - generic [ref=e346]: Active
+              - generic [ref=e347]: In Progress
+              - generic [ref=e348]: Prospect
+            - img [ref=e352]:
+              - generic [ref=e370] [cursor=pointer]:
+                - generic [ref=e372]: "111"
+                - generic [ref=e374]: "12"
+                - generic [ref=e376]: "1"
+                - generic [ref=e378]: "11"
+                - generic [ref=e380]: "545"
+                - generic [ref=e382]: 3 659
+                - generic [ref=e384]: "0"
+                - generic [ref=e386]: "338"
+                - generic [ref=e388]: "0"
+                - generic [ref=e390]: "59"
+                - generic [ref=e392]: "0"
+                - generic [ref=e394]: "168"
+    - generic [ref=e401]:
+      - button "Latest Customer Orders" [expanded] [ref=e402] [cursor=pointer]:
+        - paragraph [ref=e404]: Latest Customer Orders
+        - img [ref=e407]
+      - region [ref=e411]:
+        - table "enhanced table" [ref=e418]:
+          - rowgroup [ref=e419]:
+            - row "Order ID Order Status Order Submission Date Order Type Customer Name" [ref=e420]:
+              - columnheader "Order ID" [ref=e421]:
+                - button "Order ID" [ref=e422] [cursor=pointer]:
+                  - text: Order ID
+                  - img [ref=e423]
+              - columnheader "Order Status" [ref=e425]:
+                - button "Order Status" [ref=e426] [cursor=pointer]:
+                  - text: Order Status
+                  - img [ref=e427]
+              - columnheader "Order Submission Date" [ref=e429]:
+                - button "Order Submission Date" [ref=e430] [cursor=pointer]:
+                  - text: Order Submission Date
+                  - img [ref=e431]
+              - columnheader "Order Type" [ref=e433]:
+                - button "Order Type" [ref=e434] [cursor=pointer]:
+                  - text: Order Type
+                  - img [ref=e435]
+              - columnheader "Customer Name" [ref=e437]:
+                - button "Customer Name" [ref=e438] [cursor=pointer]:
+                  - text: Customer Name
+                  - img [ref=e439]
+          - rowgroup [ref=e441]:
+            - checkbox "11076970296 In Progress 06-04-2026 Add Patrice A. Shaw" [ref=e442]:
+              - cell "11076970296" [ref=e443]
+              - cell "In Progress" [ref=e444]:
+                - generic [ref=e445]: In Progress
+              - cell "06-04-2026" [ref=e447]
+              - cell "Add" [ref=e448]
+              - cell "Patrice A. Shaw" [ref=e449]
+            - checkbox "11076970077 In Progress 06-04-2026 Disconnect Beth D. Akers" [ref=e450]:
+              - cell "11076970077" [ref=e451]
+              - cell "In Progress" [ref=e452]:
+                - generic [ref=e453]: In Progress
+              - cell "06-04-2026" [ref=e455]
+              - cell "Disconnect" [ref=e456]
+              - cell "Beth D. Akers" [ref=e457]
+            - checkbox "11076970058 In Progress 06-04-2026 Add Beth D. Akers" [ref=e458]:
+              - cell "11076970058" [ref=e459]
+              - cell "In Progress" [ref=e460]:
+                - generic [ref=e461]: In Progress
+              - cell "06-04-2026" [ref=e463]
+              - cell "Add" [ref=e464]
+              - cell "Beth D. Akers" [ref=e465]
+            - checkbox "11076969598 In Progress 06-04-2026 Add Nelda T. Jacobsen" [ref=e466]:
+              - cell "11076969598" [ref=e467]
+              - cell "In Progress" [ref=e468]:
+                - generic [ref=e469]: In Progress
+              - cell "06-04-2026" [ref=e471]
+              - cell "Add" [ref=e472]
+              - cell "Nelda T. Jacobsen" [ref=e473]
+            - checkbox "11076969596 In Progress 06-04-2026 Add Nelda T. Jacobsen" [ref=e474]:
+              - cell "11076969596" [ref=e475]
+              - cell "In Progress" [ref=e476]:
+                - generic [ref=e477]: In Progress
+              - cell "06-04-2026" [ref=e479]
+              - cell "Add" [ref=e480]
+              - cell "Nelda T. Jacobsen" [ref=e481]
+            - checkbox "11076969594 In Progress 06-04-2026 Add Nelda T. Jacobsen" [ref=e482]:
+              - cell "11076969594" [ref=e483]
+              - cell "In Progress" [ref=e484]:
+                - generic [ref=e485]: In Progress
+              - cell "06-04-2026" [ref=e487]
+              - cell "Add" [ref=e488]
+              - cell "Nelda T. Jacobsen" [ref=e489]
+            - checkbox "11076969590 In Progress 06-04-2026 Add Nelda T. Jacobsen" [ref=e490]:
+              - cell "11076969590" [ref=e491]
+              - cell "In Progress" [ref=e492]:
+                - generic [ref=e493]: In Progress
+              - cell "06-04-2026" [ref=e495]
+              - cell "Add" [ref=e496]
+              - cell "Nelda T. Jacobsen" [ref=e497]
+            - checkbox "11076969588 In Progress 06-04-2026 Add Nelda T. Jacobsen" [ref=e498]:
+              - cell "11076969588" [ref=e499]
+              - cell "In Progress" [ref=e500]:
+                - generic [ref=e501]: In Progress
+              - cell "06-04-2026" [ref=e503]
+              - cell "Add" [ref=e504]
+              - cell "Nelda T. Jacobsen" [ref=e505]
+            - checkbox "11076969576 In Progress 06-04-2026 Add Nelda T. Jacobsen" [ref=e506]:
+              - cell "11076969576" [ref=e507]
+              - cell "In Progress" [ref=e508]:
+                - generic [ref=e509]: In Progress
+              - cell "06-04-2026" [ref=e511]
+              - cell "Add" [ref=e512]
+              - cell "Nelda T. Jacobsen" [ref=e513]
+            - checkbox "11076969574 In Progress 06-04-2026 Add Nelda T. Jacobsen" [ref=e514]:
+              - cell "11076969574" [ref=e515]
+              - cell "In Progress" [ref=e516]:
+                - generic [ref=e517]: In Progress
+              - cell "06-04-2026" [ref=e519]
+              - cell "Add" [ref=e520]
+              - cell "Nelda T. Jacobsen" [ref=e521]
+    - generic [ref=e522]:
+      - button "Open Sidebar Panel" [ref=e523] [cursor=pointer]:
+        - generic "Open Menu" [ref=e524]:
+          - img "Open Menu" [ref=e525]
+      - generic [ref=e527]:
+        - generic [ref=e528]:
+          - img "User" [ref=e530]
+          - paragraph [ref=e531]: LakshmiPriya
+        - generic [ref=e532]:
+          - generic [ref=e533]:
+            - button [expanded] [ref=e534] [cursor=pointer]:
+              - img [ref=e536]
+            - region [ref=e540]:
+              - list [ref=e542]:
+                - listitem [ref=e543] [cursor=pointer]:
+                  - button "Ask Roshon" [ref=e544]: Ask Roshon
+                - listitem [ref=e545] [cursor=pointer]:
+                  - button "Roshon Analytics" [ref=e546]: Roshon Analytics
+                - listitem [ref=e547] [cursor=pointer]:
+                  - button "Labels" [ref=e548]: Labels
+                - listitem [ref=e549] [cursor=pointer]:
+                  - button "My Follow up 0" [ref=e550]:
+                    - text: My Follow up
+                    - generic [ref=e551]: "0"
+                - listitem [ref=e552] [cursor=pointer]:
+                  - button "Enhanced Notes" [ref=e553]: Enhanced Notes
+                - listitem [ref=e554] [cursor=pointer]:
+                  - button "Notification 0" [ref=e555]:
+                    - text: Notification
+                    - generic [ref=e556]: "0"
+                - listitem [ref=e557] [cursor=pointer]:
+                  - button "Recent Views" [ref=e558]: Recent Views
+          - button [ref=e560] [cursor=pointer]:
+            - img [ref=e562]
+          - button [ref=e564] [cursor=pointer]:
+            - img [ref=e566]
+          - separator [ref=e567]
+          - list [ref=e568]:
+            - listitem [ref=e569] [cursor=pointer]:
+              - button "Help" [ref=e570]
+          - list [ref=e571]:
+            - listitem [ref=e572] [cursor=pointer]:
+              - button "Logout" [ref=e573]
