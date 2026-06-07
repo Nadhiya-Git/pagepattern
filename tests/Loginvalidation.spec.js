@@ -9,7 +9,7 @@ test(`@web loginvalidation  ${data.username}`,async({page})=>{
 
   
     const login=new Loginpage(page);
-   // await page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+   await page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
     
 
    await login .navigateToLoginPage();
