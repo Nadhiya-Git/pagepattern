@@ -18,7 +18,7 @@ this.page=page;
     async loginvaliation(username, password) {
         await this.username.type(username);
         await this.password.type(password);
-        await this.loginbutton.click();
+        //await this.loginbutton.click();
 
         const titles = await this.products.locator('b').allTextContents();
         console.log(titles);
