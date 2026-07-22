@@ -1,17 +1,18 @@
-const {test}=require('@playwright/test');
-const { credentials } = require('../Utils/APIUTIL');
-const { Loginpage } = require('../PageObject/Loginpage');
+import { test } from '@playwright/test';
+import { credentials } from '../Utils/APIUTIL';
+import { Loginpage } from '../PageObject/Loginpage';
 
 for(const data of credentials) {
 
-test(`@web loginvalidation  ${data.username}`,async({page})=>{
+test("@web loginvalidation",async({page})=>{
     
-
+const username = process.env.APP_USERNAME;
+const password = process.env.APP_PASSWORD;
   
     const login=new Loginpage(page);
   
 
    await login .navigateToLoginPage();
-   await login.loginvaliation(data.username, data.password);
+   await login.loginvaliation(username,password);
 
 })};
