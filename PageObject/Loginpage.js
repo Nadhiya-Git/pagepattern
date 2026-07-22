@@ -2,11 +2,11 @@ class  Loginpage
 {
     constructor(page){
 this.page=page;
-        this.username=page.locator('#userEmail'  ) ;
-     this.password=page.locator('#userPassword');
-    this.loginbutton=page.locator('#login');
+        this.username=page.locator("#userEmail") ;
+     this.password=page.locator("#userPassword");
+    this.loginbutton=page.locator("#login");
 
-    this.products = page.locator('.card-body');
+    this.products = page.locator(".card-body");
 
     }
 
@@ -16,9 +16,10 @@ this.page=page;
     }
 
     async loginvaliation(username, password) {
-        await this.username.type(username);
-        await this.password.type(password);
+        await this.username.fill(username);
+        await this.password.fill(password);
         await this.loginbutton.click();
+        //commiy
 
         const titles = await this.products.locator('b').allTextContents();
         console.log(titles);
