@@ -24,7 +24,7 @@ jobs:
     - name: Install Xvfb
       run: sudo apt-get update && sudo apt-get install -y xvfb
     - name: Run Playwright tests
-      run: xvfb-run -a npx playwright test tests/Loginvalidation.spec.js --reporter=html --output=playwright-report
+      run: xvfb-run -a npx playwright test tests/Loginvalidation.spec.js
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
