@@ -1,8 +1,8 @@
 import { test } from '@playwright/test';
-import { credentials } from '../Utils/APIUTIL';
+
 import { Loginpage } from '../PageObject/Loginpage';
 
-for(const data of credentials) {
+
 
 test("@web loginvalidation",async({page})=>{
     
@@ -15,4 +15,4 @@ const password = process.env.APP_PASSWORD;
    await login .navigateToLoginPage();
    await login.loginvaliation(username,password);
 
-})};
+});
